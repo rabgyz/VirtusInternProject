@@ -1,5 +1,12 @@
 # VirtusInternProject
 
+To run a Docker container with simple HTML page, please just:
+  - clone this Github repository to your local disc
+  - run command line
+  - go to repo's folder
+  - run terraform init
+  - run terraform apply
+
 Do you know any tools that can be used instead of Docker to build and run containers?
 Yes, i know that Docker Compose allows to make multi-container apps, also know how to configure Docker Swarm.
 
